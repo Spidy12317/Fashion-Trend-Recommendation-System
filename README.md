@@ -4,11 +4,11 @@ Fashion Assistant is an AI-powered Streamlit application that helps users discov
 
 ## Demo
 
-<!-- [Project Demo Video](fashion_trend/assets/demo.mp4) -->
-<video width="1820" height="720" controls>
+[Project Demo Video](fashion_trend/assets/demo.mp4)
+<!-- <video width="1820" height="720" controls>
   <source src="fashion_trend/assets/demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video> -->
 
 
 ## Features
