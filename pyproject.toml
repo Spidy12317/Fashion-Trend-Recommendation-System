@@ -25,6 +25,7 @@ timm = "^1.0.7"
 einops = "^0.8.0"
 streamlit = "^1.36.0"
 streamlit-lottie = "^0.0.5"
+faiss-cpu = "^1.8.0.post1"
 
 
 [tool.poetry.group.dev.dependencies]
